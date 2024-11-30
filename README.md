@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Benan Asutay</h1>
-<p align="left">
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+Puddles&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Benan+Asutay" alt="Typing SVG" />
+  </a>
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benanasutay/benanasutay/output/github-contribution-grid-snake-dark.svg">
